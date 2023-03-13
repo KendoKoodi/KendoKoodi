@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikaDevelops
-- 👀 I’m interested in Python, Java and Kotlin.
-- 🌱 I’m currently learning how to use Java, Github and basic SQL.
+- 👀 I’m interested in JavaScript, Java and Python.
+- 🌱 I’m currently learning how to use JavaScript, Github and basic SQL.
 - 💞️ I’m looking to collaborate on anything legal where I can help and improve my skills.
 - 📫 How to reach me: Mika.1.virtala@edu.karelia.fi
              discord: Mika#7938
